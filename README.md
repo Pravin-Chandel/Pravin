@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
+- 🔭 I’m currently working as an Intern at Aivarient
+
 - 💬 Ask me about **SQL Queries,DAX Expressions,Advanced Excel,Dashboard Creation**
 
 - 📫 How to reach me **chandel.pravin98@gmail.com**
+
+- 🌱 I’m currently mastering Python, Tableau, MySQL, Powerbi, Advanced Excel Hadoop Artificial intellegence and Deep learning
 
 - 📄 Know about my experiences [file:///C:/Users/chand/OneDrive/Desktop/Pravin's%20Resume%20(1).pdf](file:///C:/Users/chand/OneDrive/Desktop/Pravin's%20Resume%20(1).pdf)
 
